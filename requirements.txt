@@ -1,0 +1,9 @@
+black==24.4.2
+Django==5.0.6
+django-ninja==0.20.0
+django-stubs==5.0.2
+flake8==7.0.0
+isort==5.13.2
+mypy==1.10.0
+psycopg2==2.9.9
+types-psycopg2==2.9.21.20240417
